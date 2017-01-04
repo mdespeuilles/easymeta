@@ -13,3 +13,12 @@ This module has a fonctionality clone of the excellent Drupal 7 module Simplemet
 Just go on your website and click on the "Meta" button on the left on the site
 
 ![alt tag](https://www.openaccess.fr/easymeta.png)
+
+## Know issues
+
+None
+
+## Status
+
+The code should be most optimized
+Any contributors are welcome :-)
